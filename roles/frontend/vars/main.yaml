@@ -1,9 +1,9 @@
-CATALOGUE_HOST: catalogue.latha.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.latha.site
 
-USER_HOST: user.latha.site
+USER_HOST: user.backend-{{ env }}.latha.site
 
-CART_HOST: cart.latha.site
+CART_HOST: cart.backend-{{ env }}.latha.site
 
-SHIPPING_HOST: shipping.latha.site
+SHIPPING_HOST: shipping.backend-{{ env }}.latha.site
 
-PAYMENT_HOST: payment.latha.site
+PAYMENT_HOST: payment.backend-{{ env }}.latha.site
