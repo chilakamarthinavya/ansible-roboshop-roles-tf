@@ -1,0 +1,9 @@
+CATALOGUE_HOST: catalogue.latha.site
+
+USER_HOST: user.latha.site
+
+CART_HOST: cart.latha.site
+
+SHIPPING_HOST: shipping.latha.site
+
+PAYMENT_HOST: payment.latha.site

@@ -1,0 +1,9 @@
+CART_HOST: cart.backend-{{env}}.latha.site
+
+USER_HOST: user.backend-{{env}}.latha.site
+
+RABBITMQ_HOST: rabbitmq-{{env}}.latha.site
+
+RABBITMQ_USER: roboshop
+
+RABBITMQ_PASSWORD: roboshop123

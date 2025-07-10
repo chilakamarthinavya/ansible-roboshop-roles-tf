@@ -1,0 +1,8 @@
+MYSQL_HOST: mysql-{{env}}.latha.site
+
+MYSQL_ROOT_USER: root
+
+MYSQL_ROOT_PASSWORD: RoboShop@1
+
+CART_HOST: cart.backend-{{env}}.latha.site
+
