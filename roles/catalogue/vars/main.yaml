@@ -1,1 +1,1 @@
-MONGODB_HOST: "mongodb-{{env}}.latha.site"
+MONGODB_HOST: "mongodb-{{ env }}.latha.site"
